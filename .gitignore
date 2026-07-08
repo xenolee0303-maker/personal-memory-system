@@ -1,0 +1,21 @@
+# Private vault data
+Intent/
+Memory/
+Meta/
+outputs/
+Archive/
+Scripts_Archive_旧自动沉淀体系/
+
+# Local tooling noise
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.bak
+*.bak_*
+
+# OS noise
+.DS_Store
+Thumbs.db
