@@ -19,6 +19,10 @@ It does not include private long-term memory content, raw diary logs, or raw vau
 3. Run the bootstrap script.
 4. Keep private vault data outside this repository.
 
+## Local automatic backup
+
+Run `scripts\install_backup_task.ps1` on the source machine to create a daily backup task that mirrors `D:\个人\AI学习\记忆系统` to `E:\个人\AI学习\记忆系统`.
+
 ## Roles
 
 - `Obsidian` is the source vault.
